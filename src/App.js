@@ -9,7 +9,7 @@ import Testimonials from './components/Testimonials';
 function App() {
   return (
     <main>
-      <Navbar/>
+      <Navbar className="text-gray-400 bg-gray-900 body-font"/>
       <About/>
       <Projects/>
       <Skills/>
